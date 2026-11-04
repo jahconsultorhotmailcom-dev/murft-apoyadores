@@ -1,7 +1,7 @@
 {
   "cafe": "Murft Cafe",
-  "updatedAt": "2026-11-04T05:49:32.221Z",
-  "total": 4,
+  "updatedAt": "2026-11-04T05:58:33.353Z",
+  "total": 5,
   "supporters": [
     {
       "id": "d1bc1b91-4922-4aba-8122-be808b5299ba",
@@ -30,6 +30,13 @@
       "tier": "Amante del Cafe",
       "cents": 500,
       "since": "2026-10-31"
+    },
+    {
+      "id": "8f66236d-5ab4-4a2a-ac65-5ddb2d999921",
+      "name": "KendoMurft",
+      "tier": "Huella amiga (propina)",
+      "cents": 100,
+      "since": "2026-11-04"
     }
   ],
   "tiers": {
