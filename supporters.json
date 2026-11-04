@@ -1,7 +1,61 @@
 {
   "cafe": "Murft Cafe",
-  "updatedAt": "2026-11-04T05:46:49.507Z",
-  "total": 0,
-  "supporters": [],
-  "tiers": {}
+  "updatedAt": "2026-11-04T05:49:32.221Z",
+  "total": 4,
+  "supporters": [
+    {
+      "id": "d1bc1b91-4922-4aba-8122-be808b5299ba",
+      "name": "Duma",
+      "tier": "Michi Legendario",
+      "cents": 3500,
+      "since": "2026-10-31"
+    },
+    {
+      "id": "119b016d-c855-44c9-b6ea-5db0e2cba33f",
+      "name": "01DragonFly",
+      "tier": "Michi Vip",
+      "cents": 1000,
+      "since": "2026-10-31"
+    },
+    {
+      "id": "7a1e2599-d929-4172-b149-18e8c01c7b6c",
+      "name": "Haran 95011",
+      "tier": "Michi Vip",
+      "cents": 1000,
+      "since": "2026-11-01"
+    },
+    {
+      "id": "14831902-b9f8-4245-b23c-6a83aa9111c7",
+      "name": "ÇØMØÇŮÂ",
+      "tier": "Amante del Cafe",
+      "cents": 500,
+      "since": "2026-10-31"
+    }
+  ],
+  "tiers": {
+    "29944433": {
+      "title": "Free",
+      "cents": 0
+    },
+    "29944482": {
+      "title": "Huella amiga (propina)",
+      "cents": 100
+    },
+    "29944502": {
+      "title": "Amante del Cafe",
+      "cents": 500
+    },
+    "29944515": {
+      "title": "Michi Vip",
+      "cents": 1000
+    },
+    "29944525": {
+      "title": "Michi Dorado",
+      "cents": 2000
+    },
+    "29944545": {
+      "title": "Michi Legendario",
+      "cents": 3500
+    }
+  }
 }
