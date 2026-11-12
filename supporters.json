@@ -1,7 +1,7 @@
 {
   "cafe": "Murft Cafe",
-  "updatedAt": "2026-11-04T05:58:33.353Z",
-  "total": 5,
+  "updatedAt": "2026-11-12T19:30:19.626Z",
+  "total": 6,
   "supporters": [
     {
       "id": "d1bc1b91-4922-4aba-8122-be808b5299ba",
@@ -23,6 +23,13 @@
       "tier": "Michi Vip",
       "cents": 1000,
       "since": "2026-11-01"
+    },
+    {
+      "id": "44c1d8b3-eb77-46a6-8fa9-edd2b35e098e",
+      "name": "Ulvieform",
+      "tier": "Michi Vip",
+      "cents": 1000,
+      "since": "2026-11-12"
     },
     {
       "id": "14831902-b9f8-4245-b23c-6a83aa9111c7",
