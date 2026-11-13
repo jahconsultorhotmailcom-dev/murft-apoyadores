@@ -1,7 +1,7 @@
 {
   "cafe": "Murft Cafe",
-  "updatedAt": "2026-11-12T19:30:19.626Z",
-  "total": 6,
+  "updatedAt": "2026-11-13T02:28:15.591Z",
+  "total": 7,
   "supporters": [
     {
       "id": "d1bc1b91-4922-4aba-8122-be808b5299ba",
@@ -30,6 +30,13 @@
       "tier": "Michi Vip",
       "cents": 1000,
       "since": "2026-11-12"
+    },
+    {
+      "id": "b1fea515-39b7-4939-b554-4dc38ee7cc85",
+      "name": "Alisabel J.M.",
+      "tier": "Michi Vip",
+      "cents": 1000,
+      "since": "2026-11-13"
     },
     {
       "id": "14831902-b9f8-4245-b23c-6a83aa9111c7",
