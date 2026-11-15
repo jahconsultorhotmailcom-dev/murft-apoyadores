@@ -1,7 +1,7 @@
 {
   "cafe": "Murft Cafe",
-  "updatedAt": "2026-11-13T02:28:15.591Z",
-  "total": 7,
+  "updatedAt": "2026-11-15T00:08:11.277Z",
+  "total": 8,
   "supporters": [
     {
       "id": "d1bc1b91-4922-4aba-8122-be808b5299ba",
@@ -37,6 +37,13 @@
       "tier": "Michi Vip",
       "cents": 1000,
       "since": "2026-11-13"
+    },
+    {
+      "id": "36e07222-d1a9-4185-83eb-b4d7dd1bd09c",
+      "name": "kuromar_",
+      "tier": "Michi Vip",
+      "cents": 1000,
+      "since": "2026-11-15"
     },
     {
       "id": "14831902-b9f8-4245-b23c-6a83aa9111c7",
